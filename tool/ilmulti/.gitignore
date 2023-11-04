@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+
+.*.swp
+.*.swo
+
+build/
+dist/
+ilmulti.egg-info/
+
+# Ignore python environment
+env
+.vscode
